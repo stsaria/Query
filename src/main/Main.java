@@ -2,7 +2,7 @@ package main;
 
 import etc.Check;
 
-class Main {
+class Query {
 	public static void main(String[] args) {
 		Check.run();
 
